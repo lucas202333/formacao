@@ -13,4 +13,23 @@ height:auto;
 margin: auto;
 padding: 15px;
 box-shadow: 2px 4px rgba(rgba(255, 0, 0, 0.712), rgb(83, 128, 0), rgba(0, 0, 255, 0.658), alpha);
+background-color: #ffffff;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cabecalho{
+    height: 20%;
+    width: 95%;
+    padding: 20px;
+    margin: 5px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    border-bottom: #dcdcdc solid ;
+}
+.titulo{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 24px;
+    text-shadow: 2px 4px rgba(rgba(255, 0, 0, 0.712), rgb(83, 128, 0), rgba(0, 0, 255, 0.658), alpha); ;
+    color: #ff9900;
 }
