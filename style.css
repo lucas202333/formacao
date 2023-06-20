@@ -34,3 +34,10 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #ff9900;
     float: right;
 }
+.secao1{
+    padding: 20px;
+    font-size:14pt;
+}
+.item{
+    font-size: italic;
+}
